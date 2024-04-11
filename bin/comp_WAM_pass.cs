@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace MyNamespace
+namespace WAM
 {
     public class Program
     {
